@@ -2,4 +2,4 @@
 
 <p> This is will be used for homework for GRD423 </p>
 
-<h2></h2>
+<h2>Assignments</h2>
